@@ -1,0 +1,26 @@
+{	"SampleFileName": "bank-additional-full.csv",
+	"NumberofColumns" : 21,
+	"ColName": {
+		"age":"Integer",
+		"job":"varchar",
+		"marital":"varchar",
+		"education":"varchar",
+		"default":"varchar",
+		"housing":"varchar",
+		"loan":"varchar",
+		"contact":"varchar",
+		"month":"varchar",
+		"day_of_week":"varchar",
+		"duration":"Integer",
+		"campaign":"Integer",
+		"pdays":"Integer",
+		"previous":"Integer",
+		"poutcome":"varchar",
+		"emp.var.rate":"Integer",
+		"cons.price.idx":"Integer",
+		"cons.conf.idx":"Integer",
+		"euribor3m":"Integer",
+		"nr.employed":"Integer",
+		"y":"varchar"
+	}
+}
